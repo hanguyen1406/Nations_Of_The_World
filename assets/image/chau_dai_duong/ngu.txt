@@ -1,0 +1,24 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 4EE0-7131
+
+ Directory of D:\ReactNative\Nations_Of_The_World\assets\image\chau_dai_duong
+
+01/11/2023  02:15 PM    <DIR>          .
+01/11/2023  02:15 PM    <DIR>          ..
+01/11/2023  02:07 PM           181,901 Fiji.jpg
+01/11/2023  02:07 PM           156,022 Kiribati.jpg
+01/11/2023  02:07 PM           146,380 Marshall.jpg
+01/11/2023  02:07 PM            87,588 Micronesia.jpg
+01/11/2023  02:07 PM            62,198 Nauru.jpg
+01/11/2023  02:07 PM           133,905 New-Zealand.jpg
+01/11/2023  02:15 PM                 0 ngu.txt
+01/11/2023  02:07 PM            99,680 Palau.jpg
+01/11/2023  02:07 PM           119,254 Papua-New-Guinea.jpg
+01/11/2023  02:07 PM            57,114 Samoa.jpg
+01/11/2023  02:07 PM           161,421 Solomon.jpg
+01/11/2023  02:07 PM            56,086 Tonga.jpg
+01/11/2023  02:07 PM           154,486 Tuvalu.jpg
+01/11/2023  02:07 PM           172,833 Uc.jpg
+01/11/2023  02:07 PM           226,119 Vanuatu.jpg
+              15 File(s)      1,814,987 bytes
+               2 Dir(s)   3,642,314,752 bytes free

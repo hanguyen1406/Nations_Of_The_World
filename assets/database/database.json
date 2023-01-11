@@ -1,0 +1,872 @@
+[
+  {
+    "name": "chau_a",
+    "title": "Châu Á",
+    "content": "",
+    "dien_tich": "44,579,000km²",
+    "so_nuoc": "55 Quốc Gia",
+    "nations": [
+      {
+        "image": "Armenia",
+        "name": "Cộng hoà Armenia"
+      },
+      {
+        "image": "Artsakh",
+        "name": "Cộng hòa Artsakh"
+      },
+      {
+        "image": "Azerbaijan",
+        "name": "Cộng hòa Azerbaijan"
+      },
+      {
+        "image": "Bahrain",
+        "name": "Vương quốc Bahrain"
+      },
+      {
+        "image": "Bangladesh",
+        "name": "Cộng hoà Nhân dân Bangladesh"
+      },
+      {
+        "image": "Bhutan",
+        "name": "Vương quốc Bhutan"
+      },
+      {
+        "image": "Brunei",
+        "name": "Nhà nước Brunei Darussalam"
+      },
+      {
+        "image": "Cambodia",
+        "name": "Vương quốc Campuchia"
+      },
+      {
+        "image": "Christmas_Island",
+        "name": "Lãnh thổ Đảo Giáng Sinh"
+      },
+      {
+        "image": "Cyprus",
+        "name": "Cộng hòa Síp"
+      },
+      {
+        "image": "East_Timor",
+        "name": "Cộng hòa Dân chủ Đông Timor"
+      },
+      {
+        "image": "Georgia",
+        "name": "Tiểu bang Georgia"
+      },
+      {
+        "image": "Hong_Kong",
+        "name": "Đặc khu hành chính Hồng Kông"
+      },
+      {
+        "image": "India",
+        "name": "Ấn Độ"
+      },
+      {
+        "image": "Indonesia",
+        "name": "Cộng hòa Indonesia"
+      },
+      {
+        "image": "Iran",
+        "name": "Cộng hòa Hồi giáo Iran"
+      },
+      {
+        "image": "Iraq",
+        "name": "Cộng hoà Iraq"
+      },
+      {
+        "image": "Japan",
+        "name": "Nhật Bản"
+      },
+      {
+        "image": "Jordan",
+        "name": "Vương quốc Hashemite Jordan"
+      },
+      {
+        "image": "Kazakhstan",
+        "name": "Cộng hòa Kazakhstan"
+      },
+      {
+        "image": "Kuwait",
+        "name": "Nhà nước Kuwait"
+      },
+      {
+        "image": "Kyrgyzstan",
+        "name": "Cộng hoà Kyrgyzstan"
+      },
+      {
+        "image": "Laos",
+        "name": "Cộng hoà Dân chủ Nhân dân Lào"
+      },
+      {
+        "image": "Lebanon",
+        "name": "Cộng hoà Liban"
+      },
+      {
+        "image": "Macau",
+        "name": "Đặc khu hành chính Ma Cao"
+      },
+      {
+        "image": "Malaysia",
+        "name": "Malaysia"
+      },
+      {
+        "image": "Maldives",
+        "name": "Cộng hòa Maldives"
+      },
+      {
+        "image": "Mongolia",
+        "name": "Nhà nước Mông Cổ"
+      },
+      {
+        "image": "Myanmar",
+        "name": "Cộng hòa Liên bang Myanmar"
+      },
+      {
+        "image": "Nepal",
+        "name": "Cộng hoà Dân chủ Liên bang Nepal"
+      },
+      {
+        "image": "North_Korea",
+        "name": "Cộng hòa Dân chủ Nhân dân Triều Tiên"
+      },
+      {
+        "image": "Oman",
+        "name": "Vương quốc Hồi giáo Oman"
+      },
+      {
+        "image": "Pakistan",
+        "name": "Cộng hoà Hồi giáo Pakistan"
+      },
+      {
+        "image": "Palestine",
+        "name": "Nhà nước Palestine"
+      },
+      {
+        "image": "Qatar",
+        "name": "Nhà nước Qatar"
+      },
+      {
+        "image": "Saudi_Arabia",
+        "name": "Vương quốc Ả Rập Xê Út"
+      },
+      {
+        "image": "Singapore",
+        "name": "Cộng hòa Singapore"
+      },
+      {
+        "image": "South_Korea",
+        "name": "Đại Hàn Dân Quốc"
+      },
+      {
+        "image": "South_Ossetia",
+        "name": "Cộng hòa Nam Ossetia"
+      },
+      {
+        "image": "Sri_Lanka",
+        "name": "Cộng hoà Xã hội chủ nghĩa Dân chủ Sri Lanka"
+      },
+      {
+        "image": "Syria",
+        "name": "Cộng hòa Ả Rập Syria"
+      },
+      {
+        "image": "Tajikistan",
+        "name": "Cộng hòa Tajikistan"
+      },
+      {
+        "image": "Thailand",
+        "name": "Vương quốc Thái Lan"
+      },
+      {
+        "image": "the_Cocos_",
+        "name": "Lãnh thổ Quần đảo Cocos (Keeling)"
+      },
+      {
+        "image": "the_Commissioner_of_the_British_Indian_Ocean_Territory",
+        "name": "Ủy viên Lãnh thổ Ấn Độ Dương thuộc Anh"
+      },
+      {
+        "image": "the_People",
+        "name": "Cộng hòa Nhân dân Trung Hoa"
+      },
+      {
+        "image": "the_Philippines",
+        "name": "Cộng hòa Philippines"
+      },
+      {
+        "image": "the_Republic_of_Abkhazia",
+        "name": "Cộng hòa Abkhazia"
+      },
+      {
+        "image": "the_Republic_of_China",
+        "name": "Đài Loan"
+      },
+      {
+        "image": "the_Taliban",
+        "name": "Tiểu vương quốc Hồi giáo Afghanistan"
+      },
+      {
+        "image": "the_Turkish_Republic_of_Northern_Cyprus",
+        "name": "Cộng hòa Bắc Síp Thổ Nhĩ Kỳ"
+      },
+      {
+        "image": "the_United_Arab_Emirates",
+        "name": "Các Tiểu vương quốc Ả Rập Thống nhất"
+      },
+
+      {
+        "image": "Turkey",
+        "name": "Cộng hòa Thổ Nhĩ Kỳ"
+      },
+      {
+        "image": "Turkmenistan",
+        "name": "Cộng hòa Turkmenistan"
+      },
+      {
+        "image": "Uzbekistan",
+        "name": "Cộng hòa Uzbekistan"
+      },
+      {
+        "image": "Vietnam",
+        "name": "Cộng hòa Xã hội chủ nghĩa Việt Nam"
+      }
+    ]
+  },
+  {
+    "name": "chau_au",
+    "title": "Châu Âu",
+    "content": "",
+    "dien_tich": "10,180,000km²",
+    "so_nuoc": "51 Quốc Gia",
+    "nations": [
+      {
+        "name": "Thân vương quốc Andorra",
+        "image": "Andorra"
+      },
+      {
+        "name": "Vương quốc Anh",
+        "image": "Anh"
+      },
+      {
+        "name": "Cộng hòa Áo",
+        "image": "Ao"
+      },
+      {
+        "name": "Cộng hòa Ba Lan",
+        "image": "Ba"
+      },
+      {
+        "name": "Cộng hòa Belarus",
+        "image": "Belarus"
+      },
+      {
+        "name": "Vương quốc Bỉ",
+        "image": "Bi"
+      },
+      {
+        "name": "Cộng hòa Bồ Đào Nha",
+        "image": "Bo"
+      },
+      {
+        "name": "Cộng hòa Bulgaria",
+        "image": "Bulgaria"
+      },
+      {
+        "name": "Cộng hoà Albania",
+        "image": "Albania"
+      },
+      {
+        "name": "Cộng hòa Séc",
+        "image": "Sec"
+      },
+      {
+        "name": "Cộng hòa Croatia",
+        "image": "Croatia"
+      },
+      {
+        "name": "Đan Mạch",
+        "image": "DanMach"
+      },
+      {
+        "name": "Cộng hòa Liên bang Đức",
+        "image": "Duc"
+      },
+      {
+        "name": "Cộng hòa Estonia",
+        "image": "Estonia"
+      },
+      {
+        "name": "Vương quốc Hungary",
+        "image": "Hungary"
+      },
+      {
+        "name": "Cộng hòa Hy Lạp",
+        "image": "Hy"
+      },
+      {
+        "name": "Quốc đảo Iceland",
+        "image": "Iceland"
+      },
+      {
+        "name": "Đảo Ireland",
+        "image": "Ireland"
+      },
+      {
+        "name": "Cộng hòa Ý",
+        "image": "Italia"
+      },
+      {
+        "name": "Ukraina",
+        "image": "kiev"
+      },
+      {
+        "name": "Cộng hòa Kosovo",
+        "image": "Kosovo"
+      },
+      {
+        "name": "Latvia",
+        "image": "Latvia"
+      },
+      {
+        "name": "Thân vương quốc Liechtenstein",
+        "image": "Liechtenstein"
+      },
+      {
+        "name": "Bosnia và Hercegovina",
+        "image": "Lien"
+      },
+      {
+        "name": "Cộng hòa Litva",
+        "image": "Lithuania"
+      },
+      {
+        "name": "Đại công quốc Luxembourg",
+        "image": "Luxembourg"
+      },
+      {
+        "name": "Cộng hòa Bắc Macedonia",
+        "image": "Macedonia"
+      },
+      {
+        "name": "Cộng hòa Malta",
+        "image": "Malta"
+      },
+      {
+        "name": "Cộng hòa Moldova",
+        "image": "moldova"
+      },
+      {
+        "name": "Thân vương quốc Monaco",
+        "image": "Monaco"
+      },
+      {
+        "name": "Quốc gia Montenegro",
+        "image": "Montenegro"
+      },
+      {
+        "name": "Vương quốc Na Uy",
+        "image": "Na"
+      },
+      {
+        "name": "Liên bang Nga",
+        "image": "Nga"
+      },
+      {
+        "name": "Cộng hòa Phần Lan",
+        "image": "Phan"
+      },
+      {
+        "name": "Cộng hòa Pháp",
+        "image": "Phap"
+      },
+      {
+        "name": "Quốc gia Romania",
+        "image": "romania"
+      },
+      {
+        "name": "Cộng hòa Đại bình yên San Marino",
+        "image": "San"
+      },
+      {
+        "name": "Cộng hòa Serbia",
+        "image": "Serbia"
+      },
+      {
+        "name": "Cộng hòa Slovakia",
+        "image": "Slovakia"
+      },
+      {
+        "name": "Cộng hòa Slovenia",
+        "image": "Slovenia"
+      },
+      {
+        "name": "Vương quốc Tây Ban Nha",
+        "image": "Tay"
+      },
+      {
+        "name": "Vương quốc Thụy Điển",
+        "image": "ThuyDien"
+      },
+      {
+        "name": "Liên bang Thụy Sỹ",
+        "image": "ThuySy"
+      },
+      {
+        "name": "Thành quốc Vatican",
+        "image": "Vatican"
+      }
+    ]
+  },
+  {
+    "name": "chau_phi",
+    "title": "Châu Phi",
+    "content": "",
+    "dien_tich": "29,661,703km²",
+    "so_nuoc": "55 Quốc Gia",
+    "nations": [
+      {
+        "name": "Cộng hòa Tchad",
+        "image": "Chad"
+      },
+      {
+        "name": "Cộng hòa Guiné-Bissau",
+        "image": "GuineaBissau"
+      },
+      {
+        "name": "Cộng hoà Niger",
+        "image": "Niger"
+      },
+      {
+        "name": "Cộng hoà Dân chủ Nhân dân Algérie",
+        "image": "Algeria"
+      },
+      {
+        "name": "Cộng hòa Angola",
+        "image": "Angola"
+      },
+      {
+        "name": "Cộng hoà Bénin",
+        "image": "Benin"
+      },
+      {
+        "name": "Cộng hoà Botswana",
+        "image": "Botswana"
+      },
+      {
+        "name": "Quốc gia Burkina Faso",
+        "image": "Burkina_Faso"
+      },
+      {
+        "name": "Cộng hòa Burundi",
+        "image": "Burundi"
+      },
+      {
+        "name": "Cộng hòa Cameroon",
+        "image": "Cameroon"
+      },
+      {
+        "name": "Quốc đảo Cape Verde",
+        "image": "Cape_Verde"
+      },
+      {
+        "name": "Cộng hòa Bờ Biển Ngà",
+        "image": "Cote_d"
+      },
+      {
+        "name": "Cộng hòa Djibouti",
+        "image": "Djibouti"
+      },
+      {
+        "name": "Cộng hòa Ả Rập Ai Cập",
+        "image": "Egypt"
+      },
+      {
+        "name": "Cộng hòa Guinea Xích Đạo",
+        "image": "Equatorial_Guinea"
+      },
+      {
+        "name": "Nhà nước Eritrea",
+        "image": "Eritrea"
+      },
+      {
+        "name": "Vương quốc Eswatini",
+        "image": "Eswatini"
+      },
+      {
+        "name": "Cộng hòa Dân chủ Liên bang Ethiopia",
+        "image": "Ethiopia"
+      },
+      {
+        "name": "Cộng hòa Gabon",
+        "image": "Gabon"
+      },
+      {
+        "name": "Cộng hòa Ghana",
+        "image": "Ghana"
+      },
+      {
+        "name": "Cộng hòa Ghi-nê",
+        "image": "Guinea"
+      },
+      {
+        "name": "Cộng hòa Kenya",
+        "image": "Kenya"
+      },
+      {
+        "name": "Vương quốc Lesotho",
+        "image": "Lesotho"
+      },
+      {
+        "name": "Cộng hòa Liberia",
+        "image": "Liberia"
+      },
+      {
+        "name": "Nhà nước Libya",
+        "image": "Libya"
+      },
+      {
+        "name": "Cộng hòa Madagascar (Ma-đa-gát-xca)",
+        "image": "Madagascar"
+      },
+      {
+        "name": "Cộng hòa Malawi",
+        "image": "Malawi"
+      },
+      {
+        "name": "Cộng hòa Mali",
+        "image": "Mali"
+      },
+      {
+        "name": "Cộng hòa Hồi giáo Mauritanie",
+        "image": "Mauritania"
+      },
+      {
+        "name": "Cộng hòa Mauritius",
+        "image": "Mauritius"
+      },
+      {
+        "name": "Vương quốc Maroc",
+        "image": "Morocco"
+      },
+      {
+        "name": "Cộng hòa Mozambique (Mô-dăm-bích)",
+        "image": "Mozambique"
+      },
+      {
+        "name": "Cộng hòa Namibia",
+        "image": "Namibia"
+      },
+      {
+        "name": " Cộng hòa Liên bang Nigeria (Ni-giê-ri-a)",
+        "image": "Nigeria"
+      },
+      {
+        "name": "Cộng hòa Rwanda (Ru-an-đa)",
+        "image": "Rwanda"
+      },
+      {
+        "name": "Cộng hòa Sénégal (Xê-nê-gan)",
+        "image": "Senegal"
+      },
+      {
+        "name": "Cộng hòa Seychelles (Xây-sen)",
+        "image": "Seychelles"
+      },
+      {
+        "name": "Cộng hoà Sierra Leone (Xi-ê-ra Lê-ôn)",
+        "image": "Sierra_Leone"
+      },
+      {
+        "name": "Cộng hoà Liên bang Somalia (Xô-ma-li-a)",
+        "image": "Somalia"
+      },
+      {
+        "name": "Cộng hòa Nam Phi",
+        "image": "South_Africa"
+      },
+      {
+        "name": "Cộng hòa Nam Sudan (Nam Xu-đăng)",
+        "image": "South_Sudan"
+      },
+      {
+        "name": "Cộng hòa Sudan (Xu-đăng)",
+        "image": "Sudan"
+      },
+      {
+        "name": "Cộng hòa Dân chủ São Tomé và Príncipe (Xao Tô-mê và Prin-xi-pê)",
+        "image": "Sao_Tome_and_Principe"
+      },
+      {
+        "name": "Cộng hòa Thống nhất Tanzania (Tan-za-ni-a)",
+        "image": "Tanzania"
+      },
+      {
+        "name": "Cộng hòa Trung Phi",
+        "image": "the_Central_African_Republic"
+      },
+      {
+        "name": "Liên bang Comoros (Cô-mô-rốt)",
+        "image": "the_Comoros"
+      },
+      {
+        "name": "Cộng hòa Dân chủ Congo",
+        "image": "the_Democratic_Republic_of_the_Congo"
+      },
+      {
+        "name": "Cộng hòa Gambia",
+        "image": "The_Gambia"
+      },
+      {
+        "name": "Cộng hòa Congo",
+        "image": "the_Republic_of_the_Congo"
+      },
+      {
+        "name": "Cộng hòa Togo",
+        "image": "Togo"
+      },
+      {
+        "name": "Cộng hòa Tunisia",
+        "image": "Tunisia"
+      },
+      {
+        "name": "Cộng hòa Uganda",
+        "image": "Uganda"
+      },
+      {
+        "name": "Cộng hòa Zambia (Dăm-bi-a)",
+        "image": "Zambia"
+      },
+      {
+        "name": "Quốc đảo Zanzibar",
+        "image": "Zanzibar"
+      },
+      {
+        "name": "Cộng hòa Zimbabwe (Dim-ba-bu-ê)",
+        "image": "Zimbabwe"
+      }
+    ]
+  },
+  {
+    "name": "chau_my",
+    "title": "Châu Mỹ",
+    "content": "",
+    "dien_tich": "42,549,000km²",
+    "so_nuoc": "35 Quốc Gia và 24 vùng lãnh thổ",
+    "nations": [
+      {
+        "name": "Quốc đảo Antigua và Barbuda",
+        "image": "Antigua"
+      },
+      {
+        "name": "Cộng hòa Argentina",
+        "image": "Argentina"
+      },
+      {
+        "name": "Thịnh vượng chung Bahamas",
+        "image": "Bahamas"
+      },
+      {
+        "name": "Cộng hoà Barbados",
+        "image": "Barbados"
+      },
+      {
+        "name": "Quốc gia Belize",
+        "image": "Belize"
+      },
+      {
+        "name": "Nhà nước Đa dân tộc Bolivia",
+        "image": "Bolivia"
+      },
+      {
+        "name": "Cộng hòa Liên bang Brasil (Bra-zin)",
+        "image": "Brazil"
+      },
+      {
+        "name": "Canada (Ca-na-đa)",
+        "image": "Canada"
+      },
+      {
+        "name": "Cộng hòa Chile (Chi-lê)",
+        "image": "Chile"
+      },
+      {
+        "name": "Cộng hòa Colombia",
+        "image": "Colombia"
+      },
+      {
+        "name": "Cộng hoà Dominica",
+        "image": "Cong"
+      },
+      {
+        "name": "Cộng hòa Costa Rica",
+        "image": "Costa"
+      },
+      {
+        "name": "Cộng hòa Cuba",
+        "image": "Cuba"
+      },
+      {
+        "name": "Thịnh vượng chung Dominica",
+        "image": "Dominica"
+      },
+      {
+        "name": "Cộng hoà Ecuador",
+        "image": "Ecuador"
+      },
+      {
+        "name": "Cộng hòa El Salvador (En Xan-va-đo)",
+        "image": "El"
+      },
+      {
+        "name": "Quốc đảo Grenada",
+        "image": "Grenada"
+      },
+      {
+        "name": "Cộng hoà Guatemala (Goa-tê-ma-la)",
+        "image": "Guatemala"
+      },
+      {
+        "name": "Cộng hoà Hợp tác Guyana (Guy-a-na)",
+        "image": "Guyana"
+      },
+      {
+        "name": "Cộng hòa Haiti",
+        "image": "Haiti"
+      },
+      {
+        "name": "Hợp chúng quốc Hoa Kỳ",
+        "image": "Hoa"
+      },
+      {
+        "name": "Cộng hoà Honduras",
+        "image": "Honduras"
+      },
+      {
+        "name": "Quốc đảo Jamaica",
+        "image": "Jamaica"
+      },
+      {
+        "name": "Hợp chủng quốc Mexico (Mê-xi-cô)",
+        "image": "Mexico"
+      },
+      {
+        "name": "Cộng hòa Nicaragua",
+        "image": "Nicaragua"
+      },
+      {
+        "name": "Cộng hoà Panama",
+        "image": "Panama"
+      },
+      {
+        "name": "Cộng hòa Paraguay",
+        "image": "Paraguay"
+      },
+      {
+        "name": "Cộng hòa Peru",
+        "image": "Peru"
+      },
+      {
+        "name": "Đảo Saint Christopher",
+        "image": "SaintKitts"
+      },
+      {
+        "name": "Quốc đảo Saint Lucia",
+        "image": "SaintLucia"
+      },
+      {
+        "name": "Quốc đảo Saint Vincent và Grenadines",
+        "image": "SaintVincent"
+      },
+      {
+        "name": "Cộng hòa Suriname",
+        "image": "Suriname"
+      },
+      {
+        "name": "Cộng hoà Trinidad và Tobago",
+        "image": "Trinidad"
+      },
+      {
+        "name": "Cộng hòa Đông Uruguay",
+        "image": "Uruguay"
+      },
+      {
+        "name": "Cộng hòa Bolivariana Venezuela",
+        "image": "Venezuela"
+      }
+    ]
+  },
+  {
+    "name": "chau_dai_duong",
+    "title": "Châu Đại Dương",
+    "content": "",
+    "dien_tich": "8,525,989km²",
+    "so_nuoc": "14 Quốc Gia",
+    "nations": [
+      {
+        "name": "Cộng hòa Fiji",
+        "image": "Fiji"
+      },
+      {
+        "name": "Cộng hòa Kiribati (Ki-ri-bát)",
+        "image": "Kiribati"
+      },
+      {
+        "name": "Cộng hòa Quần đảo Marshall",
+        "image": "Marshall"
+      },
+      {
+        "name": "Liên bang Micronesia",
+        "image": "Micronesia"
+      },
+      {
+        "name": "Cộng hòa Nauru",
+        "image": "Nauru"
+      },
+      {
+        "name": "Quốc đảo New-Zealand (Niu Di-Lân)",
+        "image": "New"
+      },
+      {
+        "name": "Cộng hòa Palau",
+        "image": "Palau"
+      },
+      {
+        "name": "Đảo Papua",
+        "image": "Papua"
+      },
+      {
+        "name": "Nhà nước Độc lập Samoa",
+        "image": "Samoa"
+      },
+      {
+        "name": "Quần đảo Solomon",
+        "image": "Solomon"
+      },
+      {
+        "name": "Vương quốc Tonga",
+        "image": "Tonga"
+      },
+      {
+        "name": "Quần đảo Ellice",
+        "image": "Tuvalu"
+      },
+      {
+        "name": "Thịnh vượng chung Úc (Australia)",
+        "image": "Uc"
+      },
+      {
+        "name": "Cộng hòa Vanuatu",
+        "image": "Vanuatu"
+      }
+    ]
+  },
+  {
+    "name": "chau_nam_cuc",
+    "title": "Châu Nam Cực",
+    "content": "",
+    "dien_tich": "14,200,000km²",
+    "so_nuoc": "12 Quốc Gia",
+    "nations": []
+  }
+]
